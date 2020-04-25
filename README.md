@@ -1,2 +1,0 @@
-# freestyle
-terminal emulator
